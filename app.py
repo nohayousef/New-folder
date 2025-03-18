@@ -63,7 +63,7 @@ if model is None:
 # 📌 **Home Page**
 if page == "🏠 Home":
     st.title("Rain in Australia 🌧️🌦️")
-    st.image(r"C:\Users\NohaA\myenv\finallllllll project\New folder\CUsersNohaAmyenvfinallllllll projectNew folderScreenshot 2025-03-09 201614.png", width=600)
+    #st.image(r"C:\Users\NohaA\myenv\finallllllll project\New folder\CUsersNohaAmyenvfinallllllll projectNew folderScreenshot 2025-03-09 201614.png", width=600)
     
     if df is not None:
         st.subheader("Dataset Preview")
